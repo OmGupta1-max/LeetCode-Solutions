@@ -23,4 +23,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->
