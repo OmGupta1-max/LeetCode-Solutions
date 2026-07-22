@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -58,5 +61,10 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
