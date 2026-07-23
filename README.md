@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -75,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 <!---LeetCode Topics End-->
