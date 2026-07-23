@@ -2,30 +2,27 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
 
-        int n = nums.size();
+        int low = 0;
+        int high = nums.size() - 1;
 
-        // Only one element
-        if (n == 1)
-            return nums[0];
+        while (low < high) {
 
-        // First element
-        if (nums[0] != nums[1])
-            return nums[0];
+            int mid = low + (high - low) / 2;
 
-        // Last element
-        if (nums[n - 1] != nums[n - 2])
-            return nums[n - 1];
+            // Make mid even
+            if (mid % 2 == 1)
+                mid--;
 
-        // Check middle elements
-        for (int i = 1; i < n - 1; i++) {
-
-            if (nums[i] != nums[i - 1] &&
-                nums[i] != nums[i + 1]) {
-
-                return nums[i];
+            // Correct pair found
+            if (nums[mid] == nums[mid + 1]) {
+                low = mid + 2;
+            }
+            // Pair is broken
+            else {
+                high = mid;
             }
         }
 
-        return -1;
+        return nums[low];
     }
 };
