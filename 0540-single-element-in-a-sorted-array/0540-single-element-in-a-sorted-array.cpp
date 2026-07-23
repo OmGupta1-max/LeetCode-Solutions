@@ -2,17 +2,28 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
 
-        unordered_map<int, int> freq;
+        int n = nums.size();
 
-        // Count frequency
-        for (int num : nums) {
-            freq[num]++;
-        }
+        // Only one element
+        if (n == 1)
+            return nums[0];
 
-        // Find element with frequency 1
-        for (auto it : freq) {
-            if (it.second == 1)
-                return it.first;
+        // First element
+        if (nums[0] != nums[1])
+            return nums[0];
+
+        // Last element
+        if (nums[n - 1] != nums[n - 2])
+            return nums[n - 1];
+
+        // Check middle elements
+        for (int i = 1; i < n - 1; i++) {
+
+            if (nums[i] != nums[i - 1] &&
+                nums[i] != nums[i + 1]) {
+
+                return nums[i];
+            }
         }
 
         return -1;
