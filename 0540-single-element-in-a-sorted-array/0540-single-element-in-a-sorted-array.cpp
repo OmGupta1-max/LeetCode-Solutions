@@ -2,27 +2,19 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
 
-        int low = 0;
-        int high = nums.size() - 1;
+        unordered_map<int, int> freq;
 
-        while (low < high) {
-
-            int mid = low + (high - low) / 2;
-
-            // Make mid even
-            if (mid % 2 == 1)
-                mid--;
-
-            // Correct pair found
-            if (nums[mid] == nums[mid + 1]) {
-                low = mid + 2;
-            }
-            // Pair is broken
-            else {
-                high = mid;
-            }
+        // Count frequency
+        for (int num : nums) {
+            freq[num]++;
         }
 
-        return nums[low];
+        // Find element with frequency 1
+        for (auto it : freq) {
+            if (it.second == 1)
+                return it.first;
+        }
+
+        return -1;
     }
 };
