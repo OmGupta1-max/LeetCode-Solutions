@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
