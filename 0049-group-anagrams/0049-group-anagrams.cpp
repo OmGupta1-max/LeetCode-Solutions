@@ -6,15 +6,9 @@ public:
 
         for (string str : strs) {
 
-            vector<int> freq(26, 0);
+            string key = str;
 
-            for (char c : str)
-                freq[c - 'a']++;
-
-            string key = "";
-
-            for (int x : freq)
-                key += "#" + to_string(x);
+            sort(key.begin(), key.end());
 
             mp[key].push_back(str);
         }
