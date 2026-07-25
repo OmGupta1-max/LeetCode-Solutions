@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0118-pascals-triangle](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
@@ -97,5 +99,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
