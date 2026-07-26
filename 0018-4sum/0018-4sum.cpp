@@ -2,43 +2,67 @@ class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
 
+        sort(nums.begin(), nums.end());
+
         int n = nums.size();
 
-        set<vector<int>> st;
+        vector<vector<int>> ans;
 
         for (int i = 0; i < n; i++) {
 
+            if (i > 0 && nums[i] == nums[i - 1])
+                continue;
+
             for (int j = i + 1; j < n; j++) {
 
-                unordered_set<long long> hashSet;
+                if (j > i + 1 && nums[j] == nums[j - 1])
+                    continue;
 
-                for (int k = j + 1; k < n; k++) {
+                int left = j + 1;
+                int right = n - 1;
 
-                    long long fourth =
-                        1LL * target -
-                        nums[i] -
-                        nums[j] -
-                        nums[k];
+                while (left < right) {
 
-                    if (hashSet.find(fourth) != hashSet.end()) {
+                    long long sum =
+                        1LL * nums[i] +
+                        nums[j] +
+                        nums[left] +
+                        nums[right];
 
-                        vector<int> temp = {
+                    if (sum == target) {
+
+                        ans.push_back({
                             nums[i],
                             nums[j],
-                            nums[k],
-                            (int)fourth
-                        };
+                            nums[left],
+                            nums[right]
+                        });
 
-                        sort(temp.begin(), temp.end());
+                        left++;
+                        right--;
 
-                        st.insert(temp);
+                        while (left < right &&
+                               nums[left] == nums[left - 1])
+                            left++;
+
+                        while (left < right &&
+                               nums[right] == nums[right + 1])
+                            right--;
                     }
 
-                    hashSet.insert(nums[k]);
+                    else if (sum < target) {
+
+                        left++;
+                    }
+
+                    else {
+
+                        right--;
+                    }
                 }
             }
         }
 
-        return vector<vector<int>>(st.begin(), st.end());
+        return ans;
     }
 };
