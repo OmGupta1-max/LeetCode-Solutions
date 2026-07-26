@@ -2,30 +2,32 @@ class Solution {
 public:
     bool isValid(string s) {
 
-        bool changed = true;
+        stack<char> st;
 
-        while (changed) {
+        for (char ch : s) {
 
-            changed = false;
-
-            size_t pos;
-
-            if ((pos = s.find("()")) != string::npos) {
-                s.erase(pos, 2);
-                changed = true;
+            if (ch == '(' || ch == '[' || ch == '{') {
+                st.push(ch);
             }
 
-            if ((pos = s.find("[]")) != string::npos) {
-                s.erase(pos, 2);
-                changed = true;
-            }
+            else {
 
-            if ((pos = s.find("{}")) != string::npos) {
-                s.erase(pos, 2);
-                changed = true;
+                if (st.empty())
+                    return false;
+
+                if ((st.top() == '(' && ch == ')') ||
+                    (st.top() == '[' && ch == ']') ||
+                    (st.top() == '{' && ch == '}')) {
+
+                    st.pop();
+                }
+
+                else {
+                    return false;
+                }
             }
         }
 
-        return s.empty();
+        return st.empty();
     }
 };
