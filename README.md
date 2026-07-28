@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -85,11 +86,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -100,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +133,16 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
