@@ -4,24 +4,21 @@ public:
 
         int n = nums.size();
 
+        vector<int> freq(n + 1, 0);
+
+        for (int num : nums)
+            freq[num]++;
+
         int duplicate = -1;
         int missing = -1;
 
-        for (int num = 1; num <= n; num++) {
+        for (int i = 1; i <= n; i++) {
 
-            int count = 0;
+            if (freq[i] == 2)
+                duplicate = i;
 
-            for (int i = 0; i < n; i++) {
-
-                if (nums[i] == num)
-                    count++;
-            }
-
-            if (count == 2)
-                duplicate = num;
-
-            if (count == 0)
-                missing = num;
+            if (freq[i] == 0)
+                missing = i;
         }
 
         return {duplicate, missing};
