@@ -6,16 +6,21 @@ public:
 
         int ans = INT_MIN;
 
+        int prefix = 1;
+        int suffix = 1;
+
         for (int i = 0; i < n; i++) {
 
-            int product = 1;
+            if (prefix == 0)
+                prefix = 1;
 
-            for (int j = i; j < n; j++) {
+            if (suffix == 0)
+                suffix = 1;
 
-                product *= nums[j];
+            prefix *= nums[i];
+            suffix *= nums[n - 1 - i];
 
-                ans = max(ans, product);
-            }
+            ans = max(ans, max(prefix, suffix));
         }
 
         return ans;
