@@ -2,25 +2,27 @@ class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
 
-        int n = nums.size();
+        long long n = nums.size();
 
-        vector<int> freq(n + 1, 0);
+        long long actualSum = 0;
+        long long actualSqSum = 0;
 
-        for (int num : nums)
-            freq[num]++;
-
-        int duplicate = -1;
-        int missing = -1;
-
-        for (int i = 1; i <= n; i++) {
-
-            if (freq[i] == 2)
-                duplicate = i;
-
-            if (freq[i] == 0)
-                missing = i;
+        for (int num : nums) {
+            actualSum += num;
+            actualSqSum += 1LL * num * num;
         }
 
-        return {duplicate, missing};
+        long long expectedSum = n * (n + 1) / 2;
+        long long expectedSqSum = n * (n + 1) * (2 * n + 1) / 6;
+
+        long long sumDiff = expectedSum - actualSum;           // y - x
+        long long sqDiff = expectedSqSum - actualSqSum;        // y² - x²
+
+        long long sum = sqDiff / sumDiff;                      // y + x
+
+        long long missing = (sum + sumDiff) / 2;
+        long long duplicate = missing - sumDiff;
+
+        return {(int)duplicate, (int)missing};
     }
 };
