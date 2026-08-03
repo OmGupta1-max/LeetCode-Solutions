@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0048-rotate-image](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0486-predict-the-winner](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -235,4 +237,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
