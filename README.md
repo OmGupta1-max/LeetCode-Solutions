@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0048-rotate-image](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -241,4 +242,9 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
