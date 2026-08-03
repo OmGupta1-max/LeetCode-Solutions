@@ -1,66 +1,34 @@
 class Solution {
 public:
-
-    vector<int> findPSE(vector<int>& heights) {
-
-        int n = heights.size();
-        vector<int> pse(n);
-
-        stack<int> st;
-
-        for (int i = 0; i < n; i++) {
-
-            while (!st.empty() && heights[st.top()] >= heights[i])
-                st.pop();
-
-            if (st.empty())
-                pse[i] = -1;
-            else
-                pse[i] = st.top();
-
-            st.push(i);
-        }
-
-        return pse;
-    }
-
-    vector<int> findNSE(vector<int>& heights) {
-
-        int n = heights.size();
-        vector<int> nse(n);
-
-        stack<int> st;
-
-        for (int i = n - 1; i >= 0; i--) {
-
-            while (!st.empty() && heights[st.top()] >= heights[i])
-                st.pop();
-
-            if (st.empty())
-                nse[i] = n;
-            else
-                nse[i] = st.top();
-
-            st.push(i);
-        }
-
-        return nse;
-    }
-
     int largestRectangleArea(vector<int>& heights) {
 
-        vector<int> pse = findPSE(heights);
-        vector<int> nse = findNSE(heights);
-
+        int n = heights.size();
+        stack<int> st;
         int maxArea = 0;
 
-        for (int i = 0; i < heights.size(); i++) {
+        for (int i = 0; i <= n; i++) {
 
-            int width = nse[i] - pse[i] - 1;
+            // Process all bars taller than current bar
+            while (!st.empty() && (i == n || heights[st.top()] >= heights[i])) {
 
-            int area = width * heights[i];
+                int height = heights[st.top()];
+                st.pop();
 
-            maxArea = max(maxArea, area);
+                int right = i;
+
+                int left;
+
+                if (st.empty())
+                    left = -1;
+                else
+                    left = st.top();
+
+                int width = right - left - 1;
+
+                maxArea = max(maxArea, height * width);
+            }
+
+            st.push(i);
         }
 
         return maxArea;
