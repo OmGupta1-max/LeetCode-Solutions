@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
