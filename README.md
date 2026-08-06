@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0486-predict-the-winner](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -287,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
