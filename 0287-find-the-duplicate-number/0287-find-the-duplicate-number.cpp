@@ -2,16 +2,26 @@ class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
 
-        unordered_set<int> st;
+        int low = 1;
+        int high = nums.size() - 1;
 
-        for (int num : nums) {
+        while (low < high) {
 
-            if (st.find(num) != st.end())
-                return num;
+            int mid = low + (high - low) / 2;
 
-            st.insert(num);
+            int count = 0;
+
+            for (int num : nums) {
+                if (num <= mid)
+                    count++;
+            }
+
+            if (count > mid)
+                high = mid;
+            else
+                low = mid + 1;
         }
 
-        return -1;
+        return low;
     }
 };
