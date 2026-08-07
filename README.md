@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -197,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -301,4 +305,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
