@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1071-greatest-common-divisor-of-strings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,8 +329,18 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
