@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
