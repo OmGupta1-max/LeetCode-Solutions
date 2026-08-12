@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -358,4 +360,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
