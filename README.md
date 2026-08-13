@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0844-backspace-string-compare](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
