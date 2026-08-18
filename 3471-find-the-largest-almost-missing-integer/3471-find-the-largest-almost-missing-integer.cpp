@@ -2,28 +2,28 @@ class Solution {
 public:
     int largestInteger(vector<int>& nums, int k) {
         int n = nums.size();
-        // Count in how many different windows
-        // each number appears.
-        unordered_map<int, int> windowCount;
-        for (int i = 0; i <= n - k; i++) {
-            // Avoid counting the same number twice
-            // inside one window.
-            unordered_set<int> seen;
-            for (int j = i; j < i + k; j++) {
-                seen.insert(nums[j]);
-            }
-            for (int x : seen) {
-                windowCount[x]++;
-            }
+        if (n == k) {
+            return *max_element(nums.begin(), nums.end());
         }
-        int ans = -1;
-        // An "almost missing" integer appears
-        // in exactly one subarray of length k.
-        for (auto &[num, count] : windowCount) {
-            if (count == 1) {
-                ans = max(ans, num);
-            }
+        int count[51] = {0};
+        for (int x : nums) {
+            count[x]++;
         }
-        return ans;
+        if (k == 1) {
+            for (int i = 50; i >= 0; --i) {
+                if (count[i] == 1) {
+                    return i;
+                }
+            }
+            return -1;
+        }
+        int res = -1;
+        if (count[nums[0]] == 1) {
+            res = max(res, nums[0]);
+        }
+        if (count[nums.back()] == 1) {
+            res = max(res, nums.back());
+        }
+        return res;
     }
 };
