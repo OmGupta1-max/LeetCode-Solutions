@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Monotonic Stack
@@ -377,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
