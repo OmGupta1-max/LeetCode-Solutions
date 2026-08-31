@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
