@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -424,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0835-image-overlap](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
