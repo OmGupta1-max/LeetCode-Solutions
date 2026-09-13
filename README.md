@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0835-image-overlap](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0085-maximal-rectangle](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0835-image-overlap](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Simulation
