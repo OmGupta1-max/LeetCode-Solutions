@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1552-magnetic-force-between-two-balls](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1563-stone-game-v](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [1901-find-a-peak-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2029-stone-game-ix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2643-row-with-maximum-ones](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -424,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0085-maximal-rectangle](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0835-image-overlap](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Simulation
