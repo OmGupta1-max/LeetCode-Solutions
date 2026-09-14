@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0486-predict-the-winner](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -509,4 +510,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
