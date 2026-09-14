@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
