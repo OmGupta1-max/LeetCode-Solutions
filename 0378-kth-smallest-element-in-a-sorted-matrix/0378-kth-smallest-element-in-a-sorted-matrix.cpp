@@ -1,40 +1,44 @@
 class Solution {
 public:
-    int kthSmallest(vector<vector<int>>& matrix, int k) {
 
+    // Count how many elements are <= mid
+    int countLessEqual(vector<vector<int>>& matrix, int mid) {
         int n = matrix.size();
-
-        // {value, row, column}
-        priority_queue<
-            tuple<int, int, int>,
-            vector<tuple<int, int, int>>,
-            greater<tuple<int, int, int>>
-        > pq;
-
-        // Put first element of every row
-        for (int i = 0; i < n; i++) {
-            pq.push({matrix[i][0], i, 0});
-        }
-
-        int answer = 0;
-
-        for (int count = 0; count < k; count++) {
-
-            auto [value, row, col] = pq.top();
-            pq.pop();
-
-            answer = value;
-
-            // Add next element from same row
-            if (col + 1 < n) {
-                pq.push({
-                    matrix[row][col + 1],
-                    row,
-                    col + 1
-                });
+        int row = n - 1;
+        int col = 0;
+        int count = 0;
+        while (row >= 0 && col < n) {
+            if (matrix[row][col] <= mid) {
+                // Everything above this element
+                // in this column is also <= mid
+                count += row + 1;
+                col++;
+            }
+            else {
+                // Current element is too large
+                // Move upward
+                row--;
             }
         }
-
-        return answer;
+        return count;
+    }
+    int kthSmallest(vector<vector<int>>& matrix, int k) {
+        int n = matrix.size();
+        // Binary search on value
+        int low = matrix[0][0];
+        int high = matrix[n - 1][n - 1];
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            int count = countLessEqual(matrix, mid);
+            if (count >= k) {
+                // kth element can be mid or smaller
+                high = mid;
+            }
+            else {
+                // kth element must be greater
+                low = mid + 1;
+            }
+        }
+        return low;
     }
 };
