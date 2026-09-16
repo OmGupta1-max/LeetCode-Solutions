@@ -1,29 +1,30 @@
 class Solution {
 public:
     string reverseWords(string s) {
-
-        stringstream ss(s);
-
-        vector<string> words;
-        string word;
-
-        // Extract words
-        while (ss >> word) {
-            words.push_back(word);
-        }
-
-        string ans;
-
-        // Traverse backwards
-        for (int i = words.size() - 1; i >= 0; i--) {
-
-            ans += words[i];
-
-            if (i != 0) {
-                ans += " ";
+        // Remove extra spaces
+        string temp;
+        for (int i = 0; i < s.size(); i++) {
+            if (s[i] != ' ') {
+                temp += s[i];
+            }
+            else if (!temp.empty() && temp.back() != ' ') {
+                temp += ' ';
             }
         }
-
-        return ans;
+        // Remove trailing space
+        if (!temp.empty() && temp.back() == ' ') {
+            temp.pop_back();
+        }
+        // Reverse entire string
+        reverse(temp.begin(), temp.end());
+        // Reverse each word
+        int start = 0;
+        for (int i = 0; i <= temp.size(); i++) {
+            if (i == temp.size() || temp[i] == ' ') {
+                reverse(temp.begin() + start,temp.begin() + i);
+                start = i + 1;
+            }
+        }
+        return temp;
     }
 };
