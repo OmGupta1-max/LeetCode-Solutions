@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0844-backspace-string-compare](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -445,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -503,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
