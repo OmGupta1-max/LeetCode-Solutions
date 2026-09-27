@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -583,4 +585,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
