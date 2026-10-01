@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2029-stone-game-ix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
