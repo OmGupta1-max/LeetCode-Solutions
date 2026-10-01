@@ -10,30 +10,48 @@
  */
 class Solution {
 public:
+    ListNode* merge(ListNode* left, ListNode* right) {
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
+        while (left != nullptr && right != nullptr) {
+            if (left->val < right->val) {
+                tail->next = left;
+                left = left->next;
+            } else {
+                tail->next = right;
+                right = right->next;
+            }
+            tail = tail->next;
+        }
+        // Attach whichever list still has nodes
+        if (left != nullptr) {
+            tail->next = left;
+        } else {
+            tail->next = right;
+        }
+        return dummy.next;
+    }
+public:
     ListNode* sortList(ListNode* head) {
-         vector<int> arr;
-
-        // Step 1: Copy node values into a vector
-        ListNode* temp = head;
-
-        while (temp != nullptr) {
-            arr.push_back(temp->val);
-            temp = temp->next;
+        // Base case: zero or one node is already sorted
+        if (head == nullptr || head->next == nullptr) {
+            return head;
         }
-
-        // Step 2: Sort the vector
-        sort(arr.begin(), arr.end());
-
-        // Step 3: Write sorted values back
-        temp = head;
-        int i = 0;
-
-        while (temp != nullptr) {
-            temp->val = arr[i];
-            temp = temp->next;
-            i++;
+        // Find the middle and remember the node before it
+        ListNode* slow = head;
+        ListNode* fast = head;
+        ListNode* prev = nullptr;
+        while (fast != nullptr && fast->next != nullptr) {
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
         }
-
-        return head;
+        // Split the list into two independent halves
+        prev->next = nullptr;
+        // Sort both halves recursively
+        ListNode* left = sortList(head);
+        ListNode* right = sortList(slow);
+        // Merge the two sorted halves
+        return merge(left, right); 
     }
 };
