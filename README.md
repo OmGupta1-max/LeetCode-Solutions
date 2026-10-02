@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0085-maximal-rectangle](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -607,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
