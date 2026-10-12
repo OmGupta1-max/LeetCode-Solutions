@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2643-row-with-maximum-ones](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -390,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2333-minimum-sum-of-squared-difference](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
