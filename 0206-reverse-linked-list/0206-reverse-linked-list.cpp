@@ -11,20 +11,14 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        stack<int> st;
-        // Push all values
-        ListNode* temp = head;
-        while (temp != nullptr) {
-            st.push(temp->val);
-            temp = temp->next;
+         ListNode* prev = nullptr;
+        ListNode* curr = head;
+        while (curr != nullptr) {
+            ListNode* next = curr->next; // Save next node
+            curr->next = prev;           // Reverse the link
+            prev = curr;                 // Move prev forward
+            curr = next;                 // Move curr forward
         }
-        // Put values back in reverse order
-        temp = head;
-        while (temp != nullptr) {
-            temp->val = st.top();
-            st.pop();
-            temp = temp->next;
-        }
-        return head;
+        return prev;
     }
 };
