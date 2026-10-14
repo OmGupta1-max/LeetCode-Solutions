@@ -484,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
