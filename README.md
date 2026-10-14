@@ -561,17 +561,20 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Newton's Method
@@ -654,4 +657,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
