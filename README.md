@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1872-stone-game-viii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2029-stone-game-ix](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1552-magnetic-force-between-two-balls](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
