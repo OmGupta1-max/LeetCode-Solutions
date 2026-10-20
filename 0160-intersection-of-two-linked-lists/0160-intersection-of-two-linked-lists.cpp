@@ -8,24 +8,16 @@
  */
 class Solution {
 public:
-    ListNode* getIntersectionNode(ListNode* headA, ListNode* headB) {
-        // Store addresses of all nodes of List A
-        unordered_set<ListNode*> st;
-        ListNode* temp = headA;
-        while (temp != nullptr) {
-            st.insert(temp);       // Store the node itself
-            temp = temp->next;
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        ListNode *temp1=headA;
+        ListNode *temp2=headB;
+        while(temp1 != temp2){
+            temp1=temp1->next;
+            temp2=temp2->next;
+            if(temp1 == temp2) return temp1;
+            if(temp1 == NULL) temp1=headB;
+            if(temp2 == NULL) temp2=headA;
         }
-        // Traverse List B
-        temp = headB;
-        while (temp != nullptr) {
-            // Check whether the same node exists in List A
-            if (st.find(temp) != st.end()) {
-                return temp;
-            }
-            temp = temp->next;
-        }
-        // No intersection
-        return nullptr;
+        return temp1;
     }
 };
