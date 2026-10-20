@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -546,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
