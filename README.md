@@ -446,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0844-backspace-string-compare](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
