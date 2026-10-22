@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3886-sum-of-sortable-integers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
