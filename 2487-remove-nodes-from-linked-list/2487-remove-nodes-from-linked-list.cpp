@@ -25,6 +25,7 @@ public:
         }
         return prev;
     }
+
     ListNode* removeNodes(ListNode* head) {
         // Step 1: Reverse the linked list
         head = reverse(head);
