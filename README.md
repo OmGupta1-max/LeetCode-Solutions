@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -598,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2643-row-with-maximum-ones](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -615,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -624,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -720,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
