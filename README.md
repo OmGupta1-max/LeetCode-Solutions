@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3718-smallest-missing-multiple-of-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3866-first-unique-even-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -502,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0493-reverse-pairs](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -623,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -698,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
