@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0263-ugly-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
