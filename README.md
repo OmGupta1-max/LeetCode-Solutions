@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -479,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
