@@ -32,12 +32,23 @@ public:
         return dummy.next;
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if (lists.empty()) return nullptr;
-        ListNode* result = lists[0];
-        for (int i = 1; i < lists.size(); i++) {
-            result = merge2Lists(result, lists[i]);
+        if(lists.empty()) return NULL;
+        int k =lists.size();
+        while(k>1){
+            int i=0,j=0;
+            while(i<k){
+                if(i+1<k){
+                    lists[j]=merge2Lists(lists[i],lists[i+1]);
+                }
+                else{
+                    lists[j]=lists[i];
+                }
+                i+=2;
+                j++;
+            }
+            k=j;
         }
-        return result;
+        return lists[0];
         
     }
 };
