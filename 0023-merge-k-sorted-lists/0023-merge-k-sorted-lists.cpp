@@ -49,6 +49,5 @@ public:
             k=j;
         }
         return lists[0];
-        
     }
 };
