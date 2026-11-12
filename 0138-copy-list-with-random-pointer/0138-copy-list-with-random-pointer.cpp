@@ -16,26 +16,43 @@ public:
 
 class Solution {
 public:
+    void insertCopyNode(Node* head){
+        Node* temp=head;
+        while(temp!=NULL){
+           Node* copyNode=new Node(temp->val);
+            copyNode->next=temp->next;
+            temp->next=copyNode;
+            temp=temp->next->next;
+        }
+    }
+    void connectRandom(Node* head){
+        Node* temp=head;
+        while(temp!=NULL){
+            Node* copyNode=temp->next;
+            if (temp->random != nullptr) {
+            copyNode->random=temp->random->next;}
+            else{
+            copyNode->random = nullptr;
+            }
+            temp = copyNode->next;
+
+        }
+    }
+    Node* connectNext(Node* head){
+        Node* dNode=new Node(-1);
+        Node* res = dNode;
+        Node* temp=head;
+        while(temp!=NULL){
+            res->next=temp->next;
+            temp->next=temp->next->next;
+            res=res->next;
+            temp=temp->next;
+        }
+        return dNode->next;
+    }
     Node* copyRandomList(Node* head) {
-        if (head == nullptr) {
-            return nullptr;
-        }
-        unordered_map<Node*, Node*> mp;
-        // Step 1: Create copies of all nodes
-        Node* temp = head;
-        while (temp != nullptr) {
-            mp[temp] = new Node(temp->val);
-            temp = temp->next;
-        }
-        // Step 2: Connect next and random pointers
-        temp = head;
-        while (temp != nullptr) {
-            Node* copy = mp[temp];
-            copy->next = mp[temp->next];
-            copy->random = mp[temp->random];
-            temp = temp->next;
-        }
-        // Step 3: Return copied head
-        return mp[head];
+        insertCopyNode(head);
+        connectRandom(head);
+        return connectNext(head);
     }
 };
