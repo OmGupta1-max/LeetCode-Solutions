@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1472-design-browser-history](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -515,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1096-brace-expansion-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1472-design-browser-history](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0237-delete-node-in-a-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -815,4 +818,16 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
