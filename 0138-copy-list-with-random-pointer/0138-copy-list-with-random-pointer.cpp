@@ -43,10 +43,11 @@ public:
         Node* res = dNode;
         Node* temp=head;
         while(temp!=NULL){
-            res->next=temp->next;
-            temp->next=temp->next->next;
-            res=res->next;
-            temp=temp->next;
+            Node* copyNode = temp->next;
+            temp->next = copyNode->next;
+            res->next = copyNode;
+            res = copyNode;
+            temp = temp->next;
         }
         return dNode->next;
     }
