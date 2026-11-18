@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0561-array-partition](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
