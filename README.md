@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
@@ -843,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0707-design-linked-list](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0707-design-linked-list/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1472-design-browser-history](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -851,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1472-design-browser-history](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
