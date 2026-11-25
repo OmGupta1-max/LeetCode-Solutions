@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3886-sum-of-sortable-integers](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -869,4 +872,16 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
