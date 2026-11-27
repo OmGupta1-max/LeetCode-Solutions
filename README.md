@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3904-smallest-stable-index-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3524-find-x-value-of-array-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/OmGupta1-max/LeetCode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
